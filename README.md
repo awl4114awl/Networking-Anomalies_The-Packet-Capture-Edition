@@ -13,7 +13,10 @@
     Statistical Analysis Tools
     Protocol-specific Analysis Tools
     SSH Client
-    
+
+## Network Map
+<img src="https://i.imgur.com/Ms9L7zn.jpeg" height="80%" width="80%" alt="NICE Challenge"/>
+
 ## Approach
 
     When addressing the challenge, the task entails examining suspicious packet captures of network traffic and subsequently marking them on their website for later review.
