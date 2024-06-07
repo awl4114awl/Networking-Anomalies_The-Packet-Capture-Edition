@@ -93,18 +93,15 @@
         Packet range: 963-8186
 
 _____________________________
-FIN
+END
 
-<h2>Report</h2>
+<p align="center"><img src="https://i.imgur.com/jRtYIrB.png" height="80%" width="80%" alt="NICE Challenge"/>
 <br />
 <br />
-<img src="https://i.imgur.com/jRtYIrB.png" height="80%" width="80%" alt="NICE Challenge"/>
+<p align="center"><img src="https://i.imgur.com/HUN1PZp.png" height="80%" width="80%" alt="NICE Challenge"/>
 <br />
 <br />
-<img src="https://i.imgur.com/HUN1PZp.png" height="80%" width="80%" alt="NICE Challenge"/>
-<br />
-<br />
-<img src="https://i.imgur.com/DFPzDhD.png" height="80%" width="80%" alt="NICE Challenge"/>
+<p align="center"><img src="https://i.imgur.com/DFPzDhD.png" height="80%" width="80%" alt="NICE Challenge"/>
 <br />
 <br />
 </p>
